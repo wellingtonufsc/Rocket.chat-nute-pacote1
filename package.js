@@ -1,5 +1,5 @@
 Package.describe({
-	name: 'rocketchat:ufsc',
+	name: 'wellingtonsars:ufsc',
 	version: '0.0.1',
 	summary: 'UFSC rules for Rocket.Chat',
 	git: ''
